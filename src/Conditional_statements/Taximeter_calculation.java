@@ -1,5 +1,5 @@
 
-package Variables;
+package Conditional_statements;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Taximeter_calculation {
